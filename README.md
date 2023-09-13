@@ -1,0 +1,1 @@
+# Linear-and-Polynomial-Regression-Analytics-of-Big-Data-in-Medicine
